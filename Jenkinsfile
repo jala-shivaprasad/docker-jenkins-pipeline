@@ -4,7 +4,9 @@ pipeline {
 
     environment {
 
-        IMAGE_NAME = "YOUR_DOCKERHUB_USERNAME/sample-app"
+        IMAGE_NAME = "shivayadavjala
+
+/sample-app"
         IMAGE_TAG = "${BUILD_NUMBER}"
         CONTAINER_NAME = "sample-app"
 
